@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -  I'm a student at School of Computer Science and Technology, Xidian University.
--  I'm interest in Computer Architecture and Operating Systems. 
+-  I'm interest in Computer Systems. 
 -  E-mail: jay1273062855 AT outlook DOT com.
 
 [![yjmstr's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjmstr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
