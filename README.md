@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 -  I'm a student at SIST, ShanghaiTech University.
 -  I'm interest in Computer Systems, Computer Architecture and Programming Languages. 
--  E-mail: pyjmstr AT gmail DOT com or zhangyj12024 AT shanghaitech DOT edu DOT cn.
+-  E-mail: zhangyj12024 AT shanghaitech DOT edu DOT cn.
 
 [![yjmstr's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjmstr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
